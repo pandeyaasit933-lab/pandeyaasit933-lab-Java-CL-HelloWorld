@@ -1,0 +1,16 @@
+{
+  "type": "java",
+  "testFiles": [
+    {
+      "path": "src/test/java/GreetingTest.java",
+      "testCases": [
+        {
+          "methodName": "helloTest",
+          "label": "Verify sayHello returns proper greeting",
+          "description": "Checks that sayHello() returns the exact string 'Hello, world!' after trimming whitespace."
+        }
+      ]
+    }
+  ]
+}
+
